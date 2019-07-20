@@ -18,9 +18,9 @@ Employee Microservice – Which will give some basic functionality on Employee e
 Department Microservice – Again a simple REST based microservice where we will implement circuit breaker using Hystrix. Employee Service will be invoked from here and we will test the fall back path once student service will be unavailable. It will run on port 9098 in localhost.
 
 # Tech Stack and Demo Runtime
-Java 1.8
-STS as IDE
-Gradle as build tool
-Spring cloud Hystrix as circuit breaker framework
-Spring boot
-Spring Rest
+Java 1.8,
+STS as IDE,
+Gradle as build tool,
+Spring cloud Hystrix as circuit breaker framework,
+Spring boot,
+Spring Rest.
